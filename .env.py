@@ -1,0 +1,2 @@
+# .env
+DISCORD_TOKEN={NjkwOTYzNjI5NDAyNjIwMDA2.XnZjgg.Tezx3lcr2yoqLM2mxJn5KWM4OEg}
