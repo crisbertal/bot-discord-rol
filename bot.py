@@ -2,9 +2,8 @@
 import discord
 # usada para los numeros al azar
 import random
-
-# toke de auth para el bot
-TOKEN = 'NjkwOTYzNjI5NDAyNjIwMDA2.XnZjgg.Tezx3lcr2yoqLM2mxJn5KWM4OEg'
+# si lees esto dame un toque para que te pase el TOKEN, que no se debe compartir
+import var
 
 # inicia el cliente
 client = discord.Client()
@@ -82,4 +81,5 @@ async def on_ready():
     print(client.user.id)
     print('------')
 
-client.run(TOKEN)
+# ejecuta el cliente
+client.run(var.TOKEN)
