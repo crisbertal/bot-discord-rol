@@ -2,4 +2,4 @@
 Bot de Kiri, para el roleo
 
 ## TODO
-[x] Agregar mas mensajes
+- [ ] Agregar mas mensajes
